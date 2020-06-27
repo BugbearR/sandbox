@@ -1,0 +1,8 @@
+{
+  "name": "@bugbearr/sandbox",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:BugbearR/sandbox.git",
+  "author": "BugbearR <bugbearr@bugbearr.jp> (https://bugbearr.github.io)",
+  "license": "CC0-1.0"
+}
